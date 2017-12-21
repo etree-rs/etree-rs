@@ -1,0 +1,7 @@
+[package]
+name = "etree-rs"
+version = "0.1.0"
+authors = ["Mike Haboustak <haboustak@gmail.com>"]
+
+[dependencies]
+xml-rs = "0.7.0"
